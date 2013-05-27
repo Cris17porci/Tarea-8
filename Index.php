@@ -3,6 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Tarea 8 ISW</title>
+        <link rel="stylesheet" type="text/css" href="estilo.css"/>
 </head>
 
 <body>
@@ -13,7 +14,7 @@
                             <tr>
                                 <td>Usuario: </td>
                                 <td><input type= "text" name="rut" placeholder='Rut sin puntos' required  size="15"/> - </td> 
-                                <td><input type="number" size="1" name='guion' /></td>
+                                <td><input type="text" size="5"  required name='guion'placeholder='DV' /></td>
                             </tr>
                             <tr>
                                 <td>Pass: </td>
